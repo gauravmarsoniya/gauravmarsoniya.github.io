@@ -2281,7 +2281,7 @@ i-rounded {
   }
 }
 .panel-group.panel-resume .panel-body {
-  background: #ffffff url("../images/bg-panel-body.jpg");
+  background: #ffffff url("../images/bg-panel-body-min.jpg");
   line-height: 28px !important;
   padding: 18px;
 }
@@ -2748,7 +2748,7 @@ i-rounded {
   }
 }
 .contact > .col {
-  background: #fcfcfc url("../images/bg-contact.jpg");
+  background: #fcfcfc url("../images/bg-contact-min.jpg");
   -webkit-box-shadow: 0px 3px 30px 3px rgba(0, 0, 0, 0.03);
   -moz-box-shadow: 0px 3px 30px 3px rgba(0, 0, 0, 0.03);
   box-shadow: 0px 3px 30px 3px rgba(0, 0, 0, 0.03);
